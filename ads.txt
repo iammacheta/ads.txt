@@ -1007,3 +1007,9 @@ indexexchange.com, 210619, DIRECT, 50b1c356f2c5c8fc
 ogury.com, 16d38be3-43b4-4fc4-afcb-16658e386a88, DIRECT
 video.unrulymedia.com, 533898005, RESELLER
 thebrave.io, 1234746, RESELLER, c25b2154543746ac
+
+
+# Gumgum - direct
+gumgum.com,16029,DIRECT,ffdef49475d318a9
+smartadserver.com,4005,RESELLER,060d053dcf45cbf3
+krushmedia.com,AJxF6R621a9M6CaTvK,RESELLER
