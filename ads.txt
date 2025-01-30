@@ -1,5 +1,5 @@
 # Publift Fuse ads.txt #
-# Updated: 27 Jan 2025 #
+# Updated: 30 Jan 2025 #
 # Contact: support@publift.com #
 
 
@@ -1013,3 +1013,12 @@ thebrave.io, 1234746, RESELLER, c25b2154543746ac
 gumgum.com,16029,DIRECT,ffdef49475d318a9
 smartadserver.com,4005,RESELLER,060d053dcf45cbf3
 krushmedia.com,AJxF6R621a9M6CaTvK,RESELLER
+
+# Inmobi - direct
+inmobi.com, 1e4a86d7d0f34471a9c274b452029dd7, DIRECT, 83e75a7ae333ca9d
+rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26064, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26168, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26192, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25906, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
