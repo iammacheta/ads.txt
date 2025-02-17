@@ -1,5 +1,5 @@
 # Publift Fuse ads.txt #
-# Updated: 31 Jan 2025 #
+# Updated: 17 Feb 2025 #
 # Contact: support@publift.com #
 
 
@@ -837,6 +837,11 @@ pubmatic.com, 156696, RESELLER, 5d62403b186f2ace
 aps.amazon.com,0ab198dd-b265-462a-ae36-74e163ad6159,RESELLER
 indexexchange.com, 193334, RESELLER, 50b1c356f2c5c8fc
 sharethrough.com, jbYv3ec8, RESELLER, d53b998a7bd4ecd2
+the-ozone-project.com, OZONEPRS0001, RESELLER
+appnexus.com, 9979, RESELLER
+openx.com, 540731760, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 160557, RESELLER, 5d62403b186f2ace
+indexexchange.com, 206233, RESELLER, 50b1c356f2c5c8fc
 
 
 # OB Mobalytics Old lines
