@@ -1,5 +1,5 @@
 # Publift Fuse ads.txt #
-# Updated: 17 Feb 2025 #
+# Updated: 19 Feb 2025 #
 # Contact: support@publift.com #
 
 
@@ -956,6 +956,7 @@ adyoulike.com, e9a771d72c076dbe3cafc2c6477f9238, RESELLER
 
 # OpenX - direct
 openx.com, 561445360, DIRECT, 6a698e2ec38604c6
+openx.com, 561978862, DIRECT, 6a698e2ec38604c6 #s2s
 
 # OneTag - direct
 onetag.com, 80ac484cd63fd7e, DIRECT
