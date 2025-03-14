@@ -1,5 +1,5 @@
 # Publift Fuse ads.txt #
-# Updated: 13 March 2025 #
+# Updated: 14 March 2025 #
 # Contact: support@publift.com #
 
 
@@ -1228,6 +1228,12 @@ rubiconproject.com, 26168, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26192, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 25906, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
+openx.com, 539214772, reseller, 6a698e2ec38604c6
+contextweb.com, 558638, reseller, 89ff185a4c4e857c
+video.unrulymedia.com, 188404962, reseller
+themediagrid.com, b8n9yh, reseller, 35d5010d7789b49d
+lijit.com, 502742, reseller, fafdf38b16bf6b2b
+
 
 # TripleLift - direct
 triplelift.com, 14516, DIRECT, 6c33edb13117fd86
