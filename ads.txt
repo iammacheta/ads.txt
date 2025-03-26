@@ -1,5 +1,5 @@
 # Publift Fuse ads.txt #
-# Updated: 20 March 2025 #
+# Updated: 26 March 2025 #
 # Contact: support@publift.com #
 
 
@@ -1258,3 +1258,6 @@ themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
 pubmatic.com,165340,RESELLER,5d62403b186f2ace
 lijit.com,465542,RESELLER,fafdf38b16bf6b2b
 smaato.com, 1100057547, DIRECT, 07bcf65f187117b4
+
+# Unruly (Nexxen) - direct
+video.unrulymedia.com, 856900480, DIRECT
