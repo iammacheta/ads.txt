@@ -1,4 +1,4 @@
-# Updated: 14 April 2025 #
+# Updated: 16 April 2025 #
 
 OWNERDOMAIN=mobalytics.gg
 
@@ -28,6 +28,12 @@ openx.com, 540731760, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 160557, RESELLER, 5d62403b186f2ace
 indexexchange.com, 206233, RESELLER, 50b1c356f2c5c8fc
 ottadvisors.com, 122034096467, RESELLER
+adform.com, 2078, RESELLER
+Media.net, 8CU695QH7, RESELLER
+triplelift.com, 8210, RESELLER, 6c33edb13117fd86
+sharethrough.com, flUyJowI, RESELLER, d53b998a7bd4ecd2
+appnexus.com, 16007, RESELLER, f5ab79cb980f11d1
+yahoo.com, 59260, RESELLER
 
 # infolinks
 infolinks.com, 3434212, direct
@@ -386,41 +392,13 @@ lijit.com, 267370, DIRECT, fafdf38b16bf6b2b #SOVRN
 lijit.com, 267370-eb, DIRECT, fafdf38b16bf6b2b #SOVRN
 
 
-# GumGum
-gumgum.com,13654,RESELLER,ffdef49475d318a9
-
 # TripleLift
 triplelift.com, 3084, DIRECT, 6c33edb13117fd86
 triplelift.com, 3084-EB, DIRECT, 6c33edb13117fd86
 
 
-# Mobfox
-uis.mobfox.com, 82221, DIRECT, 5529a3d1f59865be
-
-
 # Amazon
 aps.amazon.com,8b48e249-e9e6-4a52-8b48-396ea93403e8,DIRECT
-indexexchange.com,192410,RESELLER,50b1c356f2c5c8fc
-pubmatic.com,160006,RESELLER,5d62403b186f2ace
-pubmatic.com,160096,RESELLER,5d62403b186f2ace
-rubiconproject.com,18020,RESELLER,0bfd66d529a55807
-pubmatic.com,157150,RESELLER,5d62403b186f2ace
-openx.com,540191398,RESELLER,6a698e2ec38604c6
-appnexus.com,1908,RESELLER,f5ab79cb980f11d1
-
-
-# Inmobi
-inmobi.com, 39f9af27aaa04ee7b0dbce648b177be1, DIRECT, 83e75a7ae333ca9d
-
-
-# Nobid
-nobid.io, 22013853948, DIRECT
-zetaglobal.net, 693, DIRECT
-
-
-# Smart
-smartadserver.com, 4191, RESELLER, 060d053dcf45cbf3
-smartadserver.com, 4191-OB, RESELLER, 060d053dcf45cbf3
 
 # Adagio
 adagio.io, 1140, DIRECT
@@ -434,9 +412,6 @@ indexexchange.com, 194558, RESELLER
 # Adagio - Triplelift
 triplelift.com, 13482, RESELLER, 6c33edb13117fd86
 
-# Adagio - E-Planning
-e-planning.net, 83c06e81531537f4, RESELLER, c1ba615865ed87b2
-
 
 # Onetag
 onetag.com, 77253abd802c05e, DIRECT
@@ -449,10 +424,6 @@ ogury.com, 5a93b205-d86c-4e96-a62e-01f593889ed0, DIRECT
 
 # OMS
 onlinemediasolutions.com, 20605, DIRECT
-
-
-# Sonobi
-sonobi.com, 54feb57a02, DIRECT, d1a215d9eb5aee9e
 
 
 # Primis
