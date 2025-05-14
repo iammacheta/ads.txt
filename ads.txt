@@ -1,4 +1,4 @@
-# Updated: 12 May 2025 #
+# Updated: 14 May 2025 #
 
 OWNERDOMAIN=mobalytics.gg
 
@@ -59,10 +59,6 @@ Media.net, 8CU66IVBD, DIRECT
 rubiconproject.com, 17352, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 17352, RESELLER, 0bfd66d529a55807
-
-# Sovrn - OB
-sovrn.com, 251959, DIRECT, fafdf38b16bf6b2b
-sovrn.com, 251959-eb, DIRECT, fafdf38b16bf6b2b
 
 # Equativ / SmartAdServer - OB
 smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
@@ -135,6 +131,7 @@ inmobi.com, b01aa06531c543d8a5fb9982f60afb00, RESELLER, 83e75a7ae333ca9d
 motorik.io, 100463, RESELLER,
 smaato.com, 1100056344, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
+
 
 # Adagio - direct
 adagio.io, 1458, DIRECT
