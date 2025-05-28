@@ -580,6 +580,28 @@ appnexus.com, 7795, DIRECT
 # Blockthrough
 blockthrough.com, 6278260873756672, DIRECT
 
+blockthrough.com, 5163601465966592, DIRECT
+amxrtb.com, 105199664, RESELLER
+appnexus.com, 12290, RESELLER f5ab79cb980f11d1
+indexexchange.com, 191503, RESELLER, 50b1c356f2c5c8fc
+themediagrid.com, 7E2DLW, RESELLER, 35d5010d7789b49d
+insticator.com, 5954e780-3109-4f11-9903-d80b3ec9068f, RESELLER, b3511ffcafb23a32
+indexexchange.com, 194341, RESELLER, 50b1c356f2c5c8fc
+video.unrulymedia.com, 553875126, RESELLER
+152media.info, 152M319, RESELLER
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+openx.com, 543731411, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 160377, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 23718, RESELLER, 0bfd66d529a55807
+sharethrough.com, 9zUewtvl, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+trustedstack.com, TS3YM7Z35, RESELLER
+media.net, 8PR4460XU, RESELLER
+pubmatic.com, 164187, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 26144, RESELLER, 0bfd66d529a55807
+openx.com, 559911747, RESELLER, 6a698e2ec38604c6
+
 # Conversant (MMS)
 conversantmedia.com, 40888, DIRECT, 03113cd04947736d
 admanmedia.com, 2050, RESELLER
@@ -660,8 +682,6 @@ rubiconproject.com, 26616, RESELLER, 0bfd66d529a55807
 # Sharethrough
 sharethrough.com, 83fd1714, DIRECT, d53b998a7bd4ecd2
 sharethrough.com, SXT0ZdrT, RESELLER, d53b998a7bd4ecd2
-pubmatic.com, 156557, RESELLER
-rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
 openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
