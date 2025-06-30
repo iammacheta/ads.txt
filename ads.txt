@@ -1,4 +1,4 @@
-# Updated: 14 May 2025 #
+# Updated: 30 June 2025 #
 
 OWNERDOMAIN=mobalytics.gg
 
@@ -147,7 +147,7 @@ sharethrough.com, Q9IzHdvp, RESELLER, d53b998a7bd4ecd2
 
 
 # OMS (Brightcom) - direct
-onlinemediasolutions.com, 21048, DIRECT
+onlinemediasolutions.com, 21048, DIRECT, b3868b187e4b6402
 audienciad.com, 210482, DIRECT
 getmediamx.com, 1221048, DIRECT
 pubmatic.com, 161332, RESELLER, 5d62403b186f2ace
@@ -172,6 +172,9 @@ appnexus.com, 15127, RESELLER
 smaato.com, 1100057655, RESELLER, 07bcf65f187117b4
 aps.amazon.com, 48266a61-b3d9-4cb7-b172-553abc6a42a4, DIRECT
 adyoulike.com, e9a771d72c076dbe3cafc2c6477f9238, RESELLER
+smartadserver.com, 4253, RESELLER  
+33Across.com, 001Pg00000eHKL7IAO, RESELLER, bbea06d9c4d2853c  
+adform.com, 3251, RESELLER, 9f5210a2f0999e32    
 
 # OpenX - direct
 openx.com, 561445360, DIRECT, 6a698e2ec38604c6
