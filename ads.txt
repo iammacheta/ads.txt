@@ -307,6 +307,10 @@ thebrave.io, 1234647, RESELLER, c25b2154543746ac
 risecodes.com, 67d9a758597e640001744af3, RESELLER
 sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
 toponad.com,168119612ada3d,RESELLER,1d49fe424a1a456d
+pubmatic.com, 163091, RESELLER, 5d62403b186f2ace
+toponad.com, 168119612ada3d, RESELLER, 1d49fe424a1a456d
+eskimi.com, 2020001133, RESELLER
+opera.com, pub13158599038336, RESELLER, 55a0c5fd61378de3
 
 # Opera - OB
 rubiconproject.com,17608,RESELLER,0bfd66d529a55807
